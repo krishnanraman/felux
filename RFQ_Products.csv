@@ -1,0 +1,11 @@
+Product_Id,Product,Weight_Requested,Destination
+1,HR P&O .025 x 48,750000,"Cleveland, OH"
+2,"CR DS 0.0158"" x 48""",1650000,"Cleveland, OH"
+3,"HR CSB 0.096"" x 60""",850000,"Cleveland, OH"
+4,"GA 050 CHT D G40 0.044"" x 48""",100000,"Cleveland, OH"
+5,"CR HSLA50 0.0615"" x 44.57""",250000,"Dallas, TX"
+6,"CR HSLA50 0.0615"" x 60""",1350000,"Dallas, TX"
+7,"GA 080 NCT O G40 0.0187"" x 48""",495000,"Dallas, TX"
+8,HR P&O .025 x 48,150000,"Dallas, TX"
+9,"CR DS 0.0158"" x 48""",100000,"Savannah, GA"
+10,"HR CSB 0.096"" x 60""",25000,"Savannah, GA"
